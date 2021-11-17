@@ -4,7 +4,7 @@
  	"pom_path":"pom.xml",
  	"build_artifact_path":"./target/*.jar",
 	"output_format":"jar",
- 	"Maven_Version":"Maven 3.0",
+ 	"Maven_Version":"Maven3",
 	"BuildTool": "Maven",
 	"BuildType": "Spring_Build"
 }
