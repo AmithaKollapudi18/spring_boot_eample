@@ -1,6 +1,6 @@
 {	"ApplicationType":"Spring",
 	"ApplicationName":"Transaction_Backend_App_fina",
-	"BuildName":"Transaction_App_Backend_Job1",
+	"BuildName":"Transaction_App",
  	"pom_path":"./pom.xml",
  	"build_artifact_path":"./target/*.jar",
 	"output_format":"jar",
