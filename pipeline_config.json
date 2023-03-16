@@ -1,5 +1,5 @@
 {	"ApplicationType":"Spring",
-	"ApplicationName":"Trans",
+	"ApplicationName":"Transit",
 	"BuildName":"Trans_App",
  	"pom_path":"./pom.xml",
  	"build_artifact_path":"./target/*.jar",
